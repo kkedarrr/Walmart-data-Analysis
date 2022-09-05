@@ -5,7 +5,7 @@ Introduction:
   Retails have to create effective promotion and offers to meet its sales and marketing goals,otherwise they will forgot the major     opportunities that the current market offers.
 Objective:
   EDA enables retailers with valuable and analytical insights,especially determining customers with desired products at desired         time in a particular store at different geographical location.
-Tools:
+Tools: 
   Numpy
   Pandas
   Matplotlib
